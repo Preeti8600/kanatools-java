@@ -229,4 +229,11 @@ public class KanaAppraiser
         return false;
     }
     //}}}
+ 
+ [4:42 PM] Saurabh Patil
+
+
+
+
+throw new NullPointerException();
 }
